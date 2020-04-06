@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933797336510",
+    "firebase_url": "https://memoria-c73a8.firebaseio.com",
+    "project_id": "memoria-c73a8",
+    "storage_bucket": "memoria-c73a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933797336510:android:7636ae49fc3fb568e215ef",
+        "android_client_info": {
+          "package_name": "com.xepsa.memoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933797336510-rt2n2su8pk9pp98uvvidkc9jj08jjngg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGq9L_xR0yEqxqwG9JyCQYGA9dYIxHak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933797336510-rt2n2su8pk9pp98uvvidkc9jj08jjngg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
