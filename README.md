@@ -24,14 +24,28 @@ A new Flutter project.
 
 ## Project Entry Points
 
-* `android/build.gradle` - Configure Maven repos and libs.
+* `android/build.gradle` - Configure Maven repositories and libs.
+
+    * https://developer.android.com/studio/build/multidex
 
 * `android/app/build.gradle` - Configure project `applicationId`.
 
+* `pubspec.yaml`
+
+    * Install [Firebase Auth](https://pub.dev/packages/firebase_auth).
+
+    * Install [Cloud Firestore](https://pub.dev/packages/cloud_firestore)
+
+
 ----
 
-* console.firebase.google.com
+## Firebase
 
+* [Firebase console](https://console.firebase.google.com)
+
+* [Flutter/Dart packages](https://pub.dev/)
+
+---
 
 ## References
 
@@ -45,6 +59,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+- https://stackoverflow.com/questions/4709137/solution-to-install-failed-insufficient-storage-error-on-android
 
 
 
